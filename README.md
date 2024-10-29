@@ -54,7 +54,8 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 
 ## SARSA LEARNING FUNCTION
 ```
-
+NAME : CHAITANYA P S
+REG NO : 212222230024
 def sarsa(env,
           gamma=1.0,
           init_alpha=0.5,
@@ -96,6 +97,9 @@ def sarsa(env,
 ```
 
 ## OUTPUT:
+<img src='https://github.com/user-attachments/assets/6581d12d-9cce-4f26-acbd-4ba497ca013a' width=50%>
+<img src='https://github.com/user-attachments/assets/11ef1a0e-08ed-4d82-846e-89fe6fcf9f88' width=50%>
+<img src='https://github.com/user-attachments/assets/620cfee6-fa14-4c1e-9cbb-a387eaaa704e' width=50%>
 
 
 
